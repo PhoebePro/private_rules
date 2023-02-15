@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-SUFFIX,netflav.com
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,hutao.cloud
+  - DOMAIN-SUFFIX,cyanmori.com
+  - PROCESS-NAME,winget.exe
+  - DOMAIN-SUFFIX,cf2.misakaf.org
