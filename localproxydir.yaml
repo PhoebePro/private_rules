@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,cyanmori.com
   - PROCESS-NAME,winget.exe
   - DOMAIN-SUFFIX,cf2.misakaf.org
+  - DOMAIN-SUFFIX,github.io
