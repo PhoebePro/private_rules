@@ -4,5 +4,6 @@ payload:
   - DOMAIN-SUFFIX,hutao.cloud
   - DOMAIN-SUFFIX,cyanmori.com
   - PROCESS-NAME,winget.exe
+  - PROCESS-NAME,obs64.exe
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,github.io
